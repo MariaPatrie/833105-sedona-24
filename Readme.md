@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Maria Patrie](https://up.htmlacademy.ru/htmlcss/24/user/833105).
-* Наставник: [Виктория Коваленко].
+* Наставник: [Виктория Коваленко](https://htmlacademy.ru/profile/id42638).
 
 ---
 
